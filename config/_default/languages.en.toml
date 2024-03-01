@@ -1,0 +1,23 @@
+languageCode = "en"
+languageName = "English"
+languageDirection = "ltr"
+weight = 1
+
+title = "Kristi Bierut"
+
+[params]
+  dateFormat = "2 January 2006"
+
+  # mainSections = ["section1", "section2"]
+  description = "Personal website and portfolio of Kristi Bierut"
+
+[author]
+  name = "Kristi Bierut"
+  image = "img/kristi.jpg"
+  headline = "Making the jump into technical writing. Former product manager."
+  bio = "I'd rather be reading"
+  links = [
+    { email = "mailto:kbeardshear@gmail.com" },
+    { github = "https://github.com/krimariko" },
+    { linkedin = "https://linkedin.com/in/kristi-bierut" },
+  ]
