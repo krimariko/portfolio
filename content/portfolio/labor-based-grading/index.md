@@ -1,6 +1,7 @@
 +++
 title = 'Labor-Based Grading'
 date = 2024-02-06T14:29:56-08:00
+weight = 40
 draft = true
 +++
 
