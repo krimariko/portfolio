@@ -54,9 +54,9 @@ At the time I worked there, Education.com was at a pivotal point in its growth. 
 -->
 
 
-### Staff Writer | [ArtSlant](https://phantomgallery.blogspot.com/2019/04/artslant-is-shutting-down-thank-you.html)
+### Staff Writer (Contract) | [ArtSlant](https://phantomgallery.blogspot.com/2019/04/artslant-is-shutting-down-thank-you.html)
 2008-2009  
-*San Francisco, CA*
+*San Francisco, CA (Remote)*
 
 ArtSlant (now defunct) was an online art publication and artist portal, a community hub connecting artists, galleries, and art lovers in cities across the US and Europe.
 
@@ -64,9 +64,9 @@ I was on their roster of writers for the SF Bay Area doing reviews of local art 
 
 Sadly I no longer have the work I did for ArtSlant, as the website was taken down and my local copies have been lost.
 
-### Grant Writer | DunnWrite Communications
+### Grant Writer (Contract) | Dunn Write Communications
 2007-2009  
-*Remote/freelance*
+*Remote*
 
 I worked freelance for a grant writing consulting firm.
 - Wrote and edited grant proposals and letters of inquiry for non-profit clients in youth advocacy and education.
@@ -83,7 +83,7 @@ I worked freelance for a grant writing consulting firm.
 
 I currently volunteer with the PTA in several areas.
 
-As a member of the communication team I run the [PTA website](https://highlandterracepta.org) in Wordpress. This mostly entails writing and managing content, with some light backend work. I also send out the monthly PTA newsletter with Mailchimp.
+As a member of the communication team I run the [PTA website](https://highlandterracepta.org) in WordPress. This mostly entails writing and managing content, with some light backend work. I also send out the monthly PTA newsletter with Mailchimp.
 
 As the sponsorship chair I engage local businesses as sponsors in support of our PTA fundraising goals. We have many regular sponsors who return every year. My work focuses on maintaining relationships with our existing roster of businesses and seeking new ones to bring into the fold.
 
