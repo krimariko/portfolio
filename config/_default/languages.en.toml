@@ -14,10 +14,10 @@ title = "Kristi Bierut"
 [author]
   name = "Kristi Bierut"
   image = "img/kristi.jpg"
-  headline = "Making the jump into technical writing. Former product manager."
+  headline = "Technical writer. Former product manager."
   bio = "I'd rather be reading"
   links = [
-    { email = "mailto:kbeardshear@gmail.com" },
+    { email = "mailto:kbierut@gmail.com" },
     { github = "https://github.com/krimariko" },
-    { linkedin = "https://linkedin.com/in/kristi-bierut" },
+    { linkedin = "https://linkedin.com/in/kristi-bierut" }
   ]

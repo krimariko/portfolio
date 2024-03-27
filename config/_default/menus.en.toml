@@ -41,7 +41,29 @@
 # The footer menu is displayed at the bottom of the page, just before
 # the copyright notice. Configure as per the main menu above.
 
-# [[footer]]
-#   name = "Contact me"
-#   pageRef = "mailto:kbeardshear@gmail.com"
-#   weight = 10
+ [[footer]]
+  name = "Email"
+  url = "mailto:kbierut@gmail.com"
+  weight = 10
+  [footer.params]
+    icon = "email"
+    showName = true
+    target = "_blank"
+
+[[footer]]
+  name = "LinkedIn"
+  url = "https://linkedin.com/in/kristi-bierut"
+  weight = 20
+  [footer.params]
+    icon = "linkedin"
+    showName = true
+    target = "_blank"
+
+[[footer]]
+  name = "GitHub"
+  url = "https://github.com/krimariko"
+  weight = 30
+  [footer.params]
+    icon = "github"
+    showName = true
+    target = "_blank"
