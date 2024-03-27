@@ -4,13 +4,14 @@ date = 2024-02-06T14:29:06-08:00
 showTableofContents = true
 weight = 30
 draft = false
+summary = 'Mock API documentation site for a fictitious photo app. Created with Stoplight. Group project for UW Technical Writing certificate program.'
 +++
 
 {{< button href="https://bierut.stoplight.io/" target="_blank" >}}
 Starwipe API documentation site
 {{< /button >}}
 
-{{< icon "github" >}}
+{{< icon "github" >}} 
 [View project on Github](https://github.com/krimariko/bierut.stoplight.io)
 
 This was my final group portfolio project for the [UW technical writing program](experience#certificate-professional-technical-writinghttpswwwpceuweducertificatesprofessional-technical-writing) which I completed in November 2023.

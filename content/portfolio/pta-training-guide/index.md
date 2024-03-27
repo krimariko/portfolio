@@ -3,8 +3,8 @@ title = 'PTA Training Guide'
 date = 2024-02-08T16:42:17-08:00
 weight = 70
 draft = false
+summary = 'Volunteer training guide on how to manage the PTA sponsorship program. Project for UW Technical Writing certificate program.'
 +++
-Training guide for a volunteer taking over the PTA sponsorship program
 
 {{< button href="kristibierut-pta-training-guide.pdf" target="_blank" >}}
 View PTA training guide PDF

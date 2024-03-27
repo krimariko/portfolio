@@ -3,6 +3,7 @@ title = 'In-House Style Guide for Education.com'
 date = 2024-02-28T12:30:17-08:00
 weight = 90
 draft = false
+summary = 'Company style guide covering brand voice, grammar and style conventions, and instructions for specific content types. Used to train new editors and freelancers.'
 +++
 
 {{< button href="kristibierut-style-guide.pdf" target="_blank" >}}
@@ -19,9 +20,9 @@ When I started at the company, we didn't have a style guide. We had a collection
 
 After getting involved with hiring and training, it was clear to me that a style guide would be immensely helpful in ensuring that our team and all new hires were aligned on our voice and style.
 
+<!--
 ---
 
-<!--
 ## Education.com Style Guide (2010)
 This guide provides direction on Education.com’s brand voice and tone, grammar and style conventions, and how to write titles, introductions, and abstracts. It was developed for our editorial team and is most relevant to activity and worksheet content.
 
